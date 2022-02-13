@@ -1,0 +1,51 @@
+body
+{
+    background: rgb(200, 206, 129);
+    color: rgb(77, 90, 61);
+}
+.header_div
+{
+    color: rgb(255, 255, 255);
+    background: rgb(32, 47, 53);
+    
+}
+.header_div h2
+{
+    font-family: 'Redressed', cursive;
+    color: crimson;
+}
+.header_div p
+{
+    font-family: 'Festive', cursive;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: small;
+    font-weight: bold;
+}
+.main_div
+{
+    height: fit-content;
+}
+.main_div button
+{
+    margin-top: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'Shizuru', cursive;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-family: 'Syne Tactile', cursive;
+    background: rgb(77, 90, 61);
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(200, 0, 0);
+}
